@@ -1,0 +1,10 @@
+p {
+	color: purple;
+	Background color: black;
+	Font-size: Large;
+	font-weight: bold;
+	text-align: center;
+}
+p {
+	text-shadow:2px 2px;
+}
